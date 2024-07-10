@@ -1,2 +1,10 @@
 # CHATBOT-PYTHON
-This repositary consists of pyhton code developed to create an user friendly chatbot.
+
+Required Libraries :
+
+'''bash
+import datetime
+import webbrowser
+import cv2
+import threading
+'''
