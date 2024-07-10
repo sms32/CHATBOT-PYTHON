@@ -113,3 +113,8 @@ Tells the user the current date.
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting a pull request. Any contributions, such as bug fixes, enhancements, or new features, are welcome!
+
+
+## SAMPLE
+
+<img src="https://github.com/sms32/CHATBOT-PYTHON/assets/153702953/51f902f1-b778-4362-8b57-d18910a2efe7" alt="ARDUINO UNO"  width="50%">
