@@ -119,5 +119,10 @@ Feel free to fork this repository and contribute by submitting a pull request. A
 
 <img src="https://github.com/sms32/CHATBOT-PYTHON/assets/153702953/51f902f1-b778-4362-8b57-d18910a2efe7" alt="ARDUINO UNO"  width="50%">
 <br>
+<br>
 <img src="https://github.com/sms32/CHATBOT-PYTHON/assets/153702953/85ddb439-91ea-482e-a82d-8eebda88a3ca" alt="ARDUINO UNO"  width="50%">
+<br>
+<br>
+<img src="https://github.com/sms32/CHATBOT-PYTHON/assets/153702953/9b1fc0d7-48c8-4fe8-a618-4a340e181ff6" alt="ARDUINO UNO"  width="50%">
+
 
