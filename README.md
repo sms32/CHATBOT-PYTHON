@@ -43,30 +43,30 @@ python chatbot.py
 2.  The chatbot will ask for your name and greet you based on the current time of day.
 
 3.  You can interact with the chatbot by typing commands. Here are some examples of commands you can use:
-   ·  "day" - The chatbot will tell you the current day of the week.
+     ·  "day" - The chatbot will tell you the current day of the week.
 
-   ·  "date" - The chatbot will tell you the current date.
+     ·  "date" - The chatbot will tell you the current date.
    
-   ·  "time" - The chatbot will tell you the current time.
+     ·  "time" - The chatbot will tell you the current time.
    
-   ·  "addition" or "add" - The chatbot will ask for values and perform addition.
+     ·  "addition" or "add" - The chatbot will ask for values and perform addition.
    
-   ·  "subtraction" or "subtract" or "difference" - The chatbot will ask for values and perform subtraction.
+     ·  "subtraction" or "subtract" or "difference" - The chatbot will ask for values and perform subtraction.
    
    
-   ·  "multiplication" or "multiply" or "product" - The chatbot will ask for values and perform multiplication.
+     ·  "multiplication" or "multiply" or "product" - The chatbot will ask for values and perform multiplication.
    
-   ·  "division" or "divide" - The chatbot will ask for values and perform division.
+     ·  "division" or "divide" - The chatbot will ask for values and perform division.
    
-   ·  "int division" or "integer division" - The chatbot will perform integer division.
+     ·  "int division" or "integer division" - The chatbot will perform integer division.
    
-   ·  "google" - The chatbot will open Google's homepage in the default web browser.
+     ·  "google" - The chatbot will open Google's homepage in the default web browser.
    
-   ·  "camera" - The chatbot will access the system's camera and display the feed.
+     ·  "camera" - The chatbot will access the system's camera and display the feed.
    
-   ·  "exit" - The chatbot will exit the application.
+     ·  "exit" - The chatbot will exit the application.
 
-5. The chatbot will respond to basic conversational inputs like "hi", "hey", "who are you", and "how are you".
+4. The chatbot will respond to basic conversational inputs like "hi", "hey", "who are you", and "how are you".
 
 ## Code Explanation
 'wishMe(name)'
