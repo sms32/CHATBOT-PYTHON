@@ -69,47 +69,47 @@ python chatbot.py
 4. The chatbot will respond to basic conversational inputs like "hi", "hey", "who are you", and "how are you".
 
 ## Code Explanation
-'wishMe(name)'
-Greets the user based on the current time of day.
+- 'wishMe(name)'
+   Greets the user based on the current time of day.
 
-'tellDay()'
-Tells the user the current day of the week.
+- 'tellDay()'
+   Tells the user the current day of the week.
 
-'username(name)'
-Prints a message asking how the chatbot can help the user.
+- 'username(name)'
+   Prints a message asking how the chatbot can help the user.
 
-'takeCommand(name)'
-Takes input from the user and returns it in lowercase.
+- 'takeCommand(name)'
+   Takes input from the user and returns it in lowercase.
 
-'tellDate()'
+- 'tellDate()'
 Tells the user the current date.
 
-'addition(name)'
-Asks the user for values and performs addition.
+- 'addition(name)'
+   Asks the user for values and performs addition.
 
-'multiplication(name)'
-Asks the user for values and performs multiplication.
+- 'multiplication(name)'
+   Asks the user for values and performs multiplication.
 
-'subtraction(name)'
-Asks the user for values and performs subtraction.
+- 'subtraction(name)'
+   Asks the user for values and performs subtraction.
 
-'division(name)'
-Asks the user for values and performs division.
+- 'division(name)'
+   Asks the user for values and performs division.
 
-'int_division(name)'
-Asks the user for values and performs integer division.
+- 'int_division(name)'
+   Asks the user for values and performs integer division.
 
-'google()'
-Opens Google's homepage in the default web browser.
+- 'google()'
+   Opens Google's homepage in the default web browser.
 
-'open_camera_thread(cap, stop_event)'
-Opens the system's camera and displays the feed in a separate thread.
+- 'open_camera_thread(cap, stop_event)'
+   Opens the system's camera and displays the feed in a separate thread.
 
-'open_camera(name)'
-Handles the camera feed and allows the user to close the camera feed.
+- 'open_camera(name)'
+   Handles the camera feed and allows the user to close the camera feed.
 
-'Main Function'
-The main function initializes the chatbot, greets the user, and enters a loop to take and respond to user commands.
+- 'Main Function'
+   The main function initializes the chatbot, greets the user, and enters a loop to take and respond to user commands.
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting a pull request. Any contributions, such as bug fixes, enhancements, or new features, are welcome!
